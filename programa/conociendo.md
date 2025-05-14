@@ -50,14 +50,14 @@ En la era Web3, tu identidad digital es tu activo más valioso. Internet Identit
 <!-- {% embed url="https://internetcomputer.org/internet-identity" %}
 Documentación oficial
 {% endembed %} -->
-> 🔗 📖  <a href="https://internetcomputer.org/internet-identity" target="_blank">Documentación oficial de Internet Identity</a>.
+🔗 📖  <a href="https://internetcomputer.org/internet-identity" target="_blank">Documentación oficial de Internet Identity</a>.
 <br>
 
 <!-- {% embed url="https://identity.ic0.app/" %}
 App Internet Identity
 {% endembed %} -->
 
- > 🔗🔑 <a href="https://identity.ic0.app/" target="_blank">Página oficial de Internet Identity</a>.
+🔗🔑 <a href="https://identity.ic0.app/" target="_blank">Página oficial de Internet Identity</a>.
 <br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
@@ -76,13 +76,13 @@ En resumen, el NNS es el mecanismo que permite a la comunidad de ICP tomar decis
 <!-- {% embed url="https://internetcomputer.org/nns" %}
 Documentación oficial
 {% endembed %} -->
-> 🔗 🧠  <a href="https://internetcomputer.org/nns" target="_blank">Documentación oficial del NNs</a>.
+🔗 🧠  <a href="https://internetcomputer.org/nns" target="_blank">Documentación oficial del NNs</a>.
 <br>
 
 <!-- {% embed url="https://nns.ic0.app/" %}
 App NNS
 {% endembed %} -->
-> 🔗 🖥️ <a href="https://nns.ic0.app/" target="_blank">App NNs</a>.
+🔗 🖥️ <a href="https://nns.ic0.app/" target="_blank">App NNs</a>.
 <br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
@@ -94,12 +94,12 @@ Internet Computer está construyendo un ecosistema vibrante y en constante expan
 <!-- {% embed url="https://internetcomputer.org/ecosystem" %}
 Ecosistema ICP
 {% endembed %} -->
-> 🔗 📱  <a href="https://internetcomputer.org/ecosystem" target="_blank">Ecosistema ICP</a>.
+🔗 📱  <a href="https://internetcomputer.org/ecosystem" target="_blank">Ecosistema ICP</a>.
 <br>
 <!-- {% embed url="https://github.com/dfinity/awesome-internet-computer" %}
 DFINITY: Awesome ICP
 {% endembed %} -->
-> 🔗 📚  <a href="https://github.com/dfinity/awesome-internet-computer" target="_blank">Repositorio de DFINITY: Awesome ICP</a>.
+🔗 📚  <a href="https://github.com/dfinity/awesome-internet-computer" target="_blank">Repositorio de DFINITY: Awesome ICP</a>.
 
 ### **Más allá de la exploración:**
 

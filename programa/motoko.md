@@ -176,7 +176,7 @@ AI Chatbot ICP
 <!-- {% hint style="warning" %}
 Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos.
 {% endhint %} -->
-> ⚠️ Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos
+> ⚠️ Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos.
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Tipos de datos primitivos en Motoko
