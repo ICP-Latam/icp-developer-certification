@@ -108,7 +108,7 @@ Ecosistema ICP
 <div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
    🔗 📱  <a href="https://internetcomputer.org/ecosystem" target="_blank">Ecosistema ICP</a>.
 </div>
-
+<br>
 <!-- {% embed url="https://github.com/dfinity/awesome-internet-computer" %}
 DFINITY: Awesome ICP
 {% endembed %} -->

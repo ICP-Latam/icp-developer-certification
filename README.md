@@ -1,4 +1,4 @@
----
+<!-- ---
 icon: hand-wave
 cover: .gitbook/assets/Banner-portada.jpg
 coverY: 0.13998703823719438
@@ -16,7 +16,7 @@ layout:
     visible: true
   pagination:
     visible: true
----
+--- -->
 
 <figure><img src=".gitbook/assets/Banner-portada.jpg" alt=""><figcaption></figcaption></figure>
 
