@@ -8,16 +8,11 @@ icon: block-brick
 
 ¡Bienvenido a la sección de Preparación Inicial! Antes de sumergirnos en el desarrollo de Canisters, es crucial que te familiarices con algunas herramientas y conceptos básicos. Esta sección te guiará a través de los fundamentos de la terminal y Git, sentando las bases para tu éxito en el programa.
 
+<!-- 
 {% embed url="https://www.youtube.com/watch?v=lISfAwVFQIk" %}
 Introducción a Blockchain
-{% endembed %}
-
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/lISfAwVFQIk" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+{% endembed %} -->
+[▶️ Introducción a Blockchain ▶️](https://www.youtube.com/watch?v=lISfAwVFQIk)
 
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
@@ -28,13 +23,18 @@ Introducción a Blockchain
 
 La terminal es tu línea de comandos, una herramienta poderosa que te permite interactuar directamente con tu computadora. Aunque puede parecer intimidante al principio, dominar los comandos básicos de la terminal te dará un control sin precedentes sobre tu entorno de desarrollo. Aprenderás a navegar por directorios, ejecutar programas y automatizar tareas, habilidades esenciales para cualquier desarrollador.
 
-{% embed url="https://www.youtube.com/watch?v=L906Kti3gzE" %}
+[▶️ Introducción a Linux ▶️](https://www.youtube.com/watch?v=L906Kti3gzE)
+
+<!-- {% embed url="https://www.youtube.com/watch?v=L906Kti3gzE" %} -->
 
 ### Windows
 
-{% hint style="info" %}
-Para Windows recomendamos usar **PowerShell** en lugar del símbolo del sistema (CMD).
-{% endhint %}
+
+
+<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
+  ℹ️ Para Windows recomendamos usar <strong>PowerShell</strong> en lugar del símbolo del sistema (CMD).
+</div>
+<br>
 
 <details>
 
@@ -57,7 +57,6 @@ Para Windows recomendamos usar **PowerShell** en lugar del símbolo del sistema 
 [Ejecutar comandos y herramientas en Terminal en la Mac](https://support.apple.com/es-mx/guide/terminal/apdb66b5242-0d18-49fc-9c47-a2498b7c91d5/mac)
 
 [Comandos básicos](https://www.xataka.com/basics/39-comandos-basicos-para-dar-tus-primeros-pasos-terminal-macos)
-
 </details>
 
 ### Linux
@@ -80,15 +79,17 @@ Para Windows recomendamos usar **PowerShell** en lugar del símbolo del sistema 
 
 Git es un sistema de control de versiones que te permite rastrear y administrar los cambios en tu código. Es una herramienta indispensable para la colaboración y el desarrollo de software moderno. Aprenderás a crear repositorios, realizar commits, crear ramas y resolver conflictos, habilidades que te permitirán trabajar de manera eficiente y colaborativa.
 
-{% embed url="https://www.youtube.com/watch?v=3GymExBkKjE" %}
+<!-- {% embed url="https://www.youtube.com/watch?v=3GymExBkKjE" %} -->
+[▶️ Curso completo de Git ▶️](https://www.youtube.com/watch?v=3GymExBkKjE)
 
-{% embed url="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" %}
+<!-- {% embed url="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" %}
 Documentación oficial para la instalación de Git
-{% endembed %}
+{% endembed %} -->
+[📖 Documentación oficial para la instalación de Git 📖](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-{% embed url="https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez" %}
+<!-- {% embed url="https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez" %}
 Configurando Git por primera vez
-{% endembed %}
-
+{% endembed %} -->
+[🛠️ Configurando Git por primera vez 🛠️](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
 <figure><img src="../.gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -107,7 +107,8 @@ Todas las sesiones de aprendizaje se realizarán a las 1:00 PM CST (hora de la C
 <div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
   ℹ️ Puedes hacer la conversión de zona horaria <a href="https://www.worldtimebuddy.com/?pl=1\&lid=3530597,3435910,3646738,3117735\&h=3530597\&hf=1" target="_blank">acá</a> 
 </div>
+<br>
 
-<table><thead><tr><th>Sesión</th><th>Fecha</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Aprendizaje</td><td>10 al 14 de Marzo</td><td><a href="https://us06web.zoom.us/j/84479029016?pwd=Q1o0SFhaWmxpQ0czMGxnSkJrS2NCUT09">https://us06web.zoom.us/j/84479029016?pwd=Q1o0SFhaWmxpQ0czMGxnSkJrS2NCUT09</a></td></tr><tr><td>Office Hours</td><td>17 y 19 de Marzo</td><td><a href="https://discord.com/channels/855182002981830656/1105937337634005135">https://discord.com/channels/855182002981830656/1105937337634005135</a></td></tr><tr><td>Entrega de Proyecto</td><td>23 de Marzo</td><td><a href="https://forms.gle/Tc8tC1rr9Wkv8Sgc6">https://forms.gle/Tc8tC1rr9Wkv8Sgc6</a></td></tr></tbody></table>
+<table><thead><tr><th>Sesión</th><th>Fecha</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Aprendizaje</td><td>10 al 14 de Marzo</td><td><a href="https://us06web.zoom.us/j/84479029016?pwd=Q1o0SFhaWmxpQ0czMGxnSkJrS2NCUT09">Enlace de Zoom </a></td></tr><tr><td>Office Hours</td><td>17 y 19 de Marzo</td><td><a href="https://discord.com/channels/855182002981830656/1105937337634005135">Canal de Discord: Office Hours</a></td></tr><tr><td>Entrega de Proyecto</td><td>23 de Marzo</td><td><a href="https://forms.gle/Tc8tC1rr9Wkv8Sgc6">Forms Google</a></td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
