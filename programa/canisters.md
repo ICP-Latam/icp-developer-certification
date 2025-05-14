@@ -1,9 +1,10 @@
----
+<!-- ---
 description: Aprende a cómo guardar información en los canisters de ICP.
 icon: box
----
+--- -->
 
-# Jueves: Estructuras de datos y persistencia
+# 💾 Jueves: Estructuras de datos y persistencia 📦
+Aprende a cómo guardar información en los canisters de ICP
 
 <figure><img src="../.gitbook/assets/Picture4.png" alt=""><figcaption></figcaption></figure>
 
@@ -13,28 +14,24 @@ Para utilizar la memoria estable, se requiere anticipar e indicar qué datos del
 
 ### Tipos de memoria y términos
 
-{% tabs %}
-{% tab title="Memoria Estable" %}
+* **Memoria Estable**
 La memoria estable se refiere a la característica de almacenamiento de datos a largo plazo de Internet Computer. La memoria estable no es específica del lenguaje y puede ser utilizada por canisters escritos en Motoko, Rust o cualquier otro lenguaje. La memoria estable puede contener hasta **500GiB** si la subred puede acomodarlo.
-{% endtab %}
 
-{% tab title="Memoria Heap" %}
+* **Memoria Heap**
 La memoria heap se refiere al almacén de datos de memoria Wasm regular para cada canister. Este almacenamiento es temporal y no se conserva durante las actualizaciones del canister. Los datos almacenados en la memoria heap se eliminan cuando se actualiza o reinstala el canister. La memoria heap está limitada a **4GiB**.
-{% endtab %}
 
-{% tab title="Almacenamiento Estable" %}
+* **Almacenamiento Estable**
 El almacenamiento estable es un término específico de Motoko que se refiere a la característica de almacenamiento estable de Motoko. El almacenamiento estable utiliza la memoria estable de ICP para persistir los datos durante las actualizaciones del canister.
-{% endtab %}
 
-{% tab title="Variables Estables" %}
+* **Variables Estables**
 Las variables estables son una característica específica de Motoko que se refiere a las variables definidas en Motoko que utilizan el modificador `stable`, que indica que el valor de la variable debe conservarse durante las actualizaciones del canister.
-{% endtab %}
-{% endtabs %}
 
-{% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" %}
+<!-- {% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" %}
 Documentación Oficial
-{% endembed %}
-
+{% endembed %} -->
+<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
+  ℹ️  <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" target="_blank">Documentación oficial 🔗</a>.
+</div>
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Colecciones en Motoko: Organizando tus Datos

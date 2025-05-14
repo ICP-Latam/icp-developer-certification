@@ -1,7 +1,7 @@
----
+<!-- ---
 description: Conociendo las bases para programar en el lenguaje exclusivo de ICP.
 icon: square-terminal
----
+--- -->
 
 # Miércoles: Métodos y estructuras de control
 
