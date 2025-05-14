@@ -10,17 +10,13 @@ Identifica las características que hacen único al Internet Computer Protocol.
 
 Prepárate para una inmersión completa en el ecosistema, donde explorarás los fundamentos de Web3 y descubrirás cómo ICP está revolucionando la forma en que construimos aplicaciones.
 
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-
-  ℹ️ Al finalizar la sesión, lograrás: <br>
-  <ul>
-    <li> Comprender los conceptos esenciales de Web3 y su impacto en el desarrollo. </li>
-    <li> Diferenciar claramente entre el desarrollo de aplicaciones Web2 y Web3. </li>
-    <li> Familiarizarte con los principios básicos de la tecnología blockchain y su aplicación en ICP. </li>
-    <li> Interactuar directamente con la blockchain de Internet Computer, dando tus primeros pasos como usuario Web3. </li> 
-  </ul>
-  </a>
-</div>
+> ℹ️ Al finalizar la sesión, lograrás:
+>   
+> *  Comprender los conceptos esenciales de Web3 y su impacto en el desarrollo.
+>  
+> * Diferenciar claramente entre el desarrollo de aplicaciones Web2 y Web3.  
+> * Familiarizarte con los principios básicos de la tecnología blockchain y su aplicación en ICP.  
+> * Interactuar directamente con la blockchain de Internet Computer.  
 
 
 
@@ -54,17 +50,14 @@ En la era Web3, tu identidad digital es tu activo más valioso. Internet Identit
 <!-- {% embed url="https://internetcomputer.org/internet-identity" %}
 Documentación oficial
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 📖  <a href="https://internetcomputer.org/internet-identity" target="_blank">Documentación oficial de Internet Identity</a>.
-</div>
+> 🔗 📖  <a href="https://internetcomputer.org/internet-identity" target="_blank">Documentación oficial de Internet Identity</a>.
 <br>
 
 <!-- {% embed url="https://identity.ic0.app/" %}
 App Internet Identity
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗🔑 <a href="https://identity.ic0.app/" target="_blank">Página oficial de Internet Identity</a>.
-</div>
+
+ > 🔗🔑 <a href="https://identity.ic0.app/" target="_blank">Página oficial de Internet Identity</a>.
 <br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
@@ -83,17 +76,13 @@ En resumen, el NNS es el mecanismo que permite a la comunidad de ICP tomar decis
 <!-- {% embed url="https://internetcomputer.org/nns" %}
 Documentación oficial
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 🧠  <a href="https://internetcomputer.org/nns" target="_blank">Documentación oficial del NNs</a>.
-</div>
+> 🔗 🧠  <a href="https://internetcomputer.org/nns" target="_blank">Documentación oficial del NNs</a>.
 <br>
 
 <!-- {% embed url="https://nns.ic0.app/" %}
 App NNS
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 🖥️ <a href="https://nns.ic0.app/" target="_blank">App NNs</a>.
-</div>
+> 🔗 🖥️ <a href="https://nns.ic0.app/" target="_blank">App NNs</a>.
 <br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
@@ -105,16 +94,12 @@ Internet Computer está construyendo un ecosistema vibrante y en constante expan
 <!-- {% embed url="https://internetcomputer.org/ecosystem" %}
 Ecosistema ICP
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 📱  <a href="https://internetcomputer.org/ecosystem" target="_blank">Ecosistema ICP</a>.
-</div>
+> 🔗 📱  <a href="https://internetcomputer.org/ecosystem" target="_blank">Ecosistema ICP</a>.
 <br>
 <!-- {% embed url="https://github.com/dfinity/awesome-internet-computer" %}
 DFINITY: Awesome ICP
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 📚  <a href="https://github.com/dfinity/awesome-internet-computer" target="_blank">Repositorio de DFINITY: Awesome ICP</a>.
-</div>
+> 🔗 📚  <a href="https://github.com/dfinity/awesome-internet-computer" target="_blank">Repositorio de DFINITY: Awesome ICP</a>.
 
 ### **Más allá de la exploración:**
 

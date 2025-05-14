@@ -14,30 +14,22 @@ Internet Identity (II) es un sistema de identidad descentralizado que te permite
 <!-- {% embed url="https://github.com/dfinity/internet-identity/tree/main/demos/using-dev-build" %}
 Repositorio Oficial
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 📚  <a href="https://github.com/dfinity/internet-identity/tree/main/demos/using-dev-build" target="_blank">Repositorio Oficial</a>.
-</div>
+> 🔗 📚  <a href="https://github.com/dfinity/internet-identity/tree/main/demos/using-dev-build" target="_blank">Repositorio Oficial</a>.
 <br>
 <!-- {% embed url="https://internetcomputer.org/docs/building-apps/authentication/integrate-internet-identity" %}
 Documentación oficial sobre la integración de Internet Identity
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-   🔗 🔐 <a href="https://internetcomputer.org/docs/building-apps/authentication/integrate-internet-identity" target="_blank">Documentación oficial sobre la integración de Internet Identity</a>.
-</div>
+> 🔗 🔐 <a href="https://internetcomputer.org/docs/building-apps/authentication/integrate-internet-identity" target="_blank">Documentación oficial sobre la integración de Internet Identity</a>.
 <br>
 <!-- {% hint style="info" %}
 Recuerda que puedes crear tu propia identidad [acá](https://identity.ic0.app/). Sin embargo, las identidades que usaremos en desarrollo son identidades ficticias.
 {% endhint %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    ℹ️ Recuerda que puedes crear tu propia identidad <a href="https://identity.ic0.app/" target="_blank">acá 🔗</a>. Sin embargo, las identidades que usaremos en desarrollo son identidades ficticias.
-</div>
+>  ℹ️ Recuerda que puedes crear tu propia identidad <a href="https://identity.ic0.app/" target="_blank">acá 🔗</a>. Sin embargo, las identidades que usaremos en desarrollo son identidades ficticias.
 <br>
 <!-- {% embed url="https://4rnkm-6yaaa-aaaag-ab6qq-cai.icp0.io/" %}
 dApp de Ejemplo
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 📱 <a href="https://4rnkm-6yaaa-aaaag-ab6qq-cai.icp0.io/" target="_blank">dApp de Ejemplo</a>.
-</div>
+>  🔗 📱 <a href="https://4rnkm-6yaaa-aaaag-ab6qq-cai.icp0.io/" target="_blank">dApp de Ejemplo</a>.
 <br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
@@ -49,23 +41,17 @@ Los módulos externos, también conocidos como librerías, son componentes de c�
 <!-- {% embed url="https://mops.one/" %}
 Mops
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 <a href="https://mops.one/" target="_blank">Mops</a>.
-</div>
+>  🔗 <a href="https://mops.one/" target="_blank">Mops</a>.
 <br>
 <!-- {% embed url="https://github.com/dfinity/vessel" %}
 Vessel
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 <a href="https://github.com/dfinity/vessel" target="_blank">Vessel</a>.
-</div>
+>  🔗 <a href="https://github.com/dfinity/vessel" target="_blank">Vessel</a>.
 <br>
 <!-- {% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-3/3.1-package-managers" %}
 Documentación oficial
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 📖 <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-3/3.1-package-managers" target="_blank">Documentación oficial</a>.
-</div>
+>  🔗 📖 <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-3/3.1-package-managers" target="_blank">Documentación oficial</a>.
 <br>
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -82,16 +68,12 @@ await LLM.prompt(#Llama3_1_8B, "Cuál es la velocidad de la luz?")
 <!-- {% embed url="https://internetcomputer.org/ai" %}
 Documentación oficial
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 📖 <a href="https://internetcomputer.org/ai" target="_blank">Documentación oficial</a>.
-</div>
+>  🔗 📖 <a href="https://internetcomputer.org/ai" target="_blank">Documentación oficial</a>.
 <br>
 <!-- {% embed url="https://internetcomputer.org/ai-agents" %}
 Agentes de IA en ICP
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 🤖  <a href="https://internetcomputer.org/ai-agents" target="_blank">Agentes de IA en ICP</a>.
-</div>
+>  🔗 🤖  <a href="https://internetcomputer.org/ai-agents" target="_blank">Agentes de IA en ICP</a>.
 <br>
 
 ### Demostración
@@ -101,14 +83,10 @@ Puedes probar esta capacidad de ICP utilizando este pequeño Live Demo.
 <figure><img src="../.gitbook/assets/Picture7.png" alt=""><figcaption></figcaption></figure>
 
 <!-- {% embed url="https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io/" %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 📱 <a href="https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io" target="_blank">Live demo</a>.
-</div>
+>  🔗 📱 <a href="https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io" target="_blank">Live demo</a>.
 <br>
 
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-    🔗 🚀 Si deseas desplegarlo por ti mismo, puedes hacerlo desde <a href="https://icp.ninja/projects/llm-chatbot" target="_blank">acá</a>.
-</div>
+>  🔗 🚀 Si deseas desplegarlo por ti mismo, puedes hacerlo desde <a href="https://icp.ninja/projects/llm-chatbot" target="_blank">acá</a>.
 <br>
 <!-- {% embed url="https://icp.ninja/projects/llm-chatbot" %} -->
 

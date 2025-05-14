@@ -29,9 +29,8 @@ Las variables estables son una característica específica de Motoko que se refi
 <!-- {% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" %}
 Documentación Oficial
 {% endembed %} -->
-<div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-  ℹ️  <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" target="_blank">Documentación oficial 🔗</a>.
-</div>
+> ℹ️ 🔗 <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" target="_blank">Documentación oficial </a>.
+
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Colecciones en Motoko: Organizando tus Datos

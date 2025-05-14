@@ -3,7 +3,7 @@ description: Conociendo las bases para programar en el lenguaje exclusivo de ICP
 icon: square-terminal
 --- -->
 
-# Miércoles: Métodos y estructuras de control
+# 🏗️ Miércoles: Métodos y estructuras de control 🧩
 
 <figure><img src="../.gitbook/assets/motoko.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,13 +34,14 @@ await Main.hello();
 * **Gestión de memoria:** La memoria se gestiona mediante un proceso automático de recolección de basura.
 * **Soporte para interfaz de funciones externas:** Aún no soportado.
 
-{% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-0/intro-languages/" %}
+<!-- {% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-0/intro-languages/" %}
 Documentación oficial lenguajes ICP
-{% endembed %}
-
-{% embed url="https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction" %}
+{% endembed %} -->
+[🔗📖 Documentación oficial de los lenguajes compatibles con ICP](https://internetcomputer.org/docs/tutorials/developer-liftoff/level-0/intro-languages/)
+<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction" %}
 Introducción de Motoko
-{% endembed %}
+{% endembed %} -->
+[🔗🛠️ Introducción a Motoko](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction)
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +58,7 @@ mkdir hello_world
 cd hello_world
 ```
 
-Ahora, utilizaremos `dfx`para crear nuestro proyecto:
+Ahora, utilizaremos `dfx` para crear nuestro proyecto:
 
 ```
 dfx new hello_world
@@ -72,7 +73,7 @@ TypeScript (Azle)
 Python (Kybra) code
 </code></pre>
 
-Selecciona Motoko, posteriormente seleccionamos la opción `No frontend canister`dado a que estaremos trabajando exclusivamente con un smart contract backend:
+Selecciona Motoko, posteriormente seleccionamos la opción `No frontend canister` dado a que estaremos trabajando exclusivamente con un smart contract backend:
 
 ```bash
 ? Select a frontend framework: ›
@@ -84,7 +85,7 @@ No JS template
 ❯ No frontend canister
 ```
 
-Tambien puedes incluir algunas características extras en tu proyecto, por lo pronto sólo presiona `Enter`para confirmar la creación del proyecto:
+Tambien puedes incluir algunas características extras en tu proyecto, por lo pronto sólo presiona `Enter` para confirmar la creación del proyecto:
 
 ```bash
 ? Add extra features (space to select, enter to confirm) ›
@@ -95,7 +96,7 @@ Tambien puedes incluir algunas características extras en tu proyecto, por lo pr
 
 ### Código del smart contract
 
-Este actor `hello_world`tiene una sola función llamada `saludar`. Está marcada como `query`porque no modifica el estado del actor. La función acepta un nombre como entrada de tipo `Text`y devuelve un saludo de tipo `Text`.
+Este actor `hello_world` tiene una sola función llamada `saludar`. Está marcada como `query` porque no modifica el estado del actor. La función acepta un nombre como entrada de tipo `Text` y devuelve un saludo de tipo `Text`.
 
 ```rust
 actor {
@@ -133,9 +134,10 @@ Backend canister via Candid interface:
 
 Para finalizar, interactúa con tu contrato recien desplegado haciendo click en el link que se generó en tu terminal.
 
-{% embed url="https://internetcomputer.org/docs/motoko/main/getting-started/quickstart" %}
+<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/getting-started/quickstart" %}
 Quickstart oficial en inglés
-{% endembed %}
+{% endembed %} -->
+[🔗⚡ Quickstart oficial en inglés](https://internetcomputer.org/docs/motoko/main/getting-started/quickstart)
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -143,14 +145,14 @@ Quickstart oficial en inglés
 
 A medida que avances en tu desarrollo con Motoko, la documentación oficial se convertirá en tu recurso indispensable. Encontrarás información detallada sobre la sintaxis del lenguaje, las funciones disponibles y los conceptos avanzados que necesitarás para construir tus canisters. Aunque la documentación está en inglés, no te preocupes, durante las sesiones de aprendizaje cubriremos los aspectos esenciales para completar tu proyecto final y obtener tu certificación. Te animamos a explorar la documentación para profundizar en tus conocimientos y convertirte en un desarrollador de Motoko experto.
 
-{% embed url="https://internetcomputer.org/docs/motoko/main/base/" %}
+<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/base/" %}
 Documentación base Motoko
-{% endembed %}
-
-{% embed url="https://internetcomputer.org/docs/motoko/main/reference/language-manual" %}
+{% endembed %} -->
+[🔗📖 Documentación base Motoko](https://internetcomputer.org/docs/motoko/main/base/)
+<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/reference/language-manual" %}
 Referencia del lenguaje Motoko
-{% endembed %}
-
+{% endembed %} -->
+[🔗📖 Referencia del lenguaje Motoko](https://internetcomputer.org/docs/motoko/main/reference/language-manual)
 ### Apoyo con IA
 
 La página oficial del Internet Computer Protocol ofrece una pequeña IA para ayudarte con tus consultas. Puedes acceder a ella utilizando el <mark style="color:red;">siguiente botón</mark> en la parte superior derecha:
@@ -167,14 +169,14 @@ Esta IA acepta preguntas en español, así que no dudes en utilizarla.
 
 También ponemos a tu disposición este pequeño chatbot que te podrá ayudar con **dudas básicas** sobre el desarrollo en Motoko.
 
-{% embed url="https://icp-ai-chat-frontend.vercel.app/" %}
+<!-- {% embed url="https://icp-ai-chat-frontend.vercel.app/" %}
 AI Chatbot ICP
-{% endembed %}
-
-{% hint style="warning" %}
+{% endembed %} -->
+[🔗🤖 AI Chatbot ICP](https://icp-ai-chat-frontend.vercel.app/)
+<!-- {% hint style="warning" %}
 Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos.
-{% endhint %}
-
+{% endhint %} -->
+> ⚠️ Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Tipos de datos primitivos en Motoko
@@ -183,9 +185,9 @@ En Motoko, los tipos de datos primitivos son los bloques de construcción fundam
 
 <table><thead><tr><th width="182">Identificador</th><th>Descripción</th></tr></thead><tbody><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Bool">Bool</a></td><td>Valores booleanos <code>true</code> y <code>false</code>, y operadores lógicos.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Char">Char</a></td><td>Caracteres Unicode.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Text">Text</a></td><td>Cadenas de caracteres Unicode con concatenación <code>_ # _</code> e iteración.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Float">Float</a></td><td>Valores de punto flotante de 64 bits.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Int">Int</a></td><td>Valores enteros con signo con aritmética (sin límites).</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Int8">Int8</a></td><td>Valores enteros con signo de 8 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Int16">Int16</a></td><td>Valores enteros con signo de 16 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Int32">Int32</a></td><td>Valores enteros con signo de 32 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Int64">Int64</a></td><td>Valores enteros con signo de 64 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Nat">Nat</a></td><td>Valores enteros no negativos con aritmética (sin límites).</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Nat8">Nat8</a></td><td>Valores enteros no negativos de 8 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Nat16">Nat16</a></td><td>Valores enteros no negativos de 16 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Nat32">Nat32</a></td><td>Valores enteros no negativos de 32 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Nat64">Nat64</a></td><td>Valores enteros no negativos de 64 bits con aritmética comprobada.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Blob">Blob</a></td><td>Blobs binarios con iteradores.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Principal">Principal</a></td><td>Principales.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Error">Error</a></td><td>Valores de error.</td></tr><tr><td><a href="https://internetcomputer.org/docs/motoko/main/base/Region">Region</a></td><td>Objetos de región de memoria estable.</td></tr></tbody></table>
 
-{% embed url="https://internetcomputer.org/docs/motoko/main/reference/language-manual#primitive-types" %}
+<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/reference/language-manual#primitive-types" %}
 Documentación Oficial
-{% endembed %}
-
+{% endembed %} -->
+[🔗📖 Documentación Oficial](https://internetcomputer.org/docs/motoko/main/reference/language-manual#primitive-types)
 <figure><img src="../.gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
 

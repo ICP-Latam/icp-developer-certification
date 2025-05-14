@@ -27,9 +27,7 @@ La terminal es tu línea de comandos, una herramienta poderosa que te permite in
 
 
 
-> <div style="background-color:rgba(248, 249, 250, 0.05); padding: 12px; border-radius: 8px; border: 1px solid #ddd; font-size: 15px;">
-  >ℹ️ Para Windows recomendamos usar <strong>PowerShell</strong> en lugar del símbolo del sistema (CMD).
-</div>
+> ℹ️ Para Windows recomendamos usar <strong>PowerShell</strong> en lugar del símbolo del sistema (CMD).
 <br>
 
 <details>
