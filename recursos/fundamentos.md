@@ -1,8 +1,4 @@
----
-icon: block-brick
----
-
-# Fundamentos Esenciales
+# 🧱 Fundamentos Esenciales 🖥️
 
 <figure><img src="../.gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
 
