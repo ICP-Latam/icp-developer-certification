@@ -12,6 +12,14 @@ icon: block-brick
 Introducción a Blockchain
 {% endembed %}
 
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/lISfAwVFQIk" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
+
+
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Dominando la terminal
