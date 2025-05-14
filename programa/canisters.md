@@ -29,7 +29,7 @@ Las variables estables son una característica específica de Motoko que se refi
 <!-- {% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" %}
 Documentación Oficial
 {% endembed %} -->
-ℹ️ 🔗 <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" target="_blank">Documentación oficial </a>.
+🔗📖 <a href="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-2/2.1-storage-persistence" target="_blank">Documentación oficial </a>.
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
