@@ -65,9 +65,9 @@ En el desarrollo de dApps sobre el Internet Computer Protocol (ICP), uno de los 
 
 ### AuthClient: Autenticación con Internet Identity
 
-@dfinity/auth-client es una biblioteca que permite integrar autenticación de usuarios en aplicaciones ICP mediante Internet Identity, el sistema de identidad descentralizado nativo del protocolo.
+``@dfinity/auth-client`` es una biblioteca que permite integrar autenticación de usuarios en aplicaciones ICP mediante ``Internet Identity``, el sistema de identidad descentralizado nativo del protocolo.
 
-Con AuthClient, los usuarios pueden iniciar sesión de forma segura en una dApp utilizando anclas de identidad que no requieren nombres de usuario ni contraseñas tradicionales. En su lugar, utilizan mecanismos criptográficos como WebAuthn, que pueden estar respaldados por biometría o llaves físicas.
+Con ``AuthClient``, los usuarios pueden iniciar sesión de forma segura en una dApp utilizando anclas de identidad que no requieren nombres de usuario ni contraseñas tradicionales. En su lugar, utilizan mecanismos criptográficos como WebAuthn, que pueden estar respaldados por biometría o llaves físicas.
 
 **Características principales:**
 
