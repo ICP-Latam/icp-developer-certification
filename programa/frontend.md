@@ -156,8 +156,96 @@ Al finalizar el ``deploy`` aparecerán los siguientes mensajes en la consola, do
 
 ### 2. Despliegue en Mainnet (Red Principal de ICP) 🌐 
 
-Una vez que tu canister está listo para producción, puedes desplegarlo a la red principal de ICP, accesible a través de dominios como icp0.io. Para hacerlo, necesitas una wallet ICP con cycles (el “combustible” que permite ejecutar operaciones en los canisters).
+Una vez que tu canister esté listo para producción, puedes desplegarlo en la **red principal del Internet Computer (ICP)**, lo que permitirá que sea accesible públicamente a través de dominios como `icp0.io`.  Para lograrlo, es necesario transferir **ICP tokens** a una **identidad**, y luego convertir esos tokens en **cycles**, que son el "combustible" que utilizan los canisters para ejecutar operaciones.
 
-## Costos por Transacción y Almacenamiento
+#### Pasos para el despliegue en mainnet:
+* Crear una identidad nueva: ``dfx identity new <Nombre de la identidad>``
 
-## Explorando Transacciones
+* Seleccionar una identidad: ``dfx identity use <Nombre de la identidad>``
+
+* Obtener el ``account-id`` para hacer transeferencias: ``dfx ledger account-id``
+> ⚠️ El id resultante es la dirección a la cúal se deben transferir los tokens de ICP 
+
+* Ver el balance en tokens: ``dfx ledger balance --network=ic``
+
+* Convertir ``tokens`` de ICP a ``cycles``: ``dfx cycles convert --amount AMOUNT --network=ic``
+
+* Ver el balance en ``cycles``: ``dfx cycles balance --network=ic``
+
+* Hacer ping a la mainnet: ``dfx ping ic``
+> ⚠️  Una conexión correcta con la mainnet debe de dar una respuesta parecida 👇: 
+>
+>{
+  "replica_health_status": "healthy",
+  "root_key": [48, 129, 130, 48, 29, 6, 13, 43, 6, 1, 4, 1, 130, 220, 124, 5, 3, 1, 2, 1, 6, 12, 43, 6, 1, 4, 1, 130, 220, 124, 5, 3, 2, 1, 3, 97, 0, 129, 76, 14, 110, 199, 31, 171, 88, 59, 8, 189, 129, 55, 60, 37, 92, 60, 55, 27, 46, 132, 134, 60, 152, 164, 241, 224, 139, 116, 35, 93, 20, 251, 93, 156, 12, 213, 70, 217, 104, 95, 145, 58, 12, 11, 44, 197, 52, 21, 131, 191, 75, 67, 146, 228, 103, 219, 150, 214, 91, 155, 180, 203, 113, 113, 18, 248, 71, 46, 13, 90, 77, 20, 80, 95, 253, 116, 132, 176, 18, 145, 9, 28, 95, 135, 185, 136, 131, 70, 63, 152, 9, 26, 11, 170, 174]
+}
+
+* Desplegar el proyecto en la mainnet: ``dfx deploy --network ic``
+
+[🔗📖 Documentación oficial sobre creación de identidades y conversión a cycles](https://internetcomputer.org/docs/tutorials/developer-liftoff/level-1/1.4-using-cycles)
+
+[🔗📖 Documentación oficial sobre el despliegue en mainnet](https://internetcomputer.org/docs/tutorials/developer-liftoff/level-1/1.5-deploying-canisters)
+
+## ¿Qué son los **Cycles** en el Internet Computer?
+
+En el Internet Computer, los **cycles** son la unidad de medida que representa los recursos computacionales. Funcionan como el **combustible** que alimenta a los canisters (contenedores inteligentes donde vive la lógica de tu dApp). Sin cycles, un canister no puede ejecutar código ni almacenar datos.
+
+### ¿Para qué sirven los cycles?
+
+Los cycles son necesarios para:
+
+- 💻 Ejecutar funciones y lógica de negocio dentro de un canister.
+- 🧠 Almacenar información de manera persistente.
+- 🔁 Enviar y recibir mensajes entre canisters o hacia el exterior (por ejemplo, solicitudes HTTP).
+- ⏱ Procesar tareas asincrónicas o temporizadas (como `Timers`).
+
+> Piensa en los cycles como el "gas" de Ethereum, pero con costos predecibles, escalables y mucho más eficientes.
+
+---
+
+###  ¿Cómo se consumen los cycles?
+
+Cada operación que realiza tu canister —desde guardar datos, responder a una solicitud, hasta realizar llamadas a otros canisters— **consume una cantidad específica de cycles**. Para más información visita la siguiente documentación oficial:
+
+[🔗📖 Más informacion sobre las operaciones de los canisters y sus recursos 🔎](https://internetcomputer.org/docs/building-apps/essentials/gas-cost)
+
+[🔗📖 Tabla de costos (en cycles y USD) por operación 📊](https://internetcomputer.org/docs/references/cycles-cost-formulas)
+
+[🔗📖 Calculadora de costos 🧮](https://3d5wy-5aaaa-aaaag-qkhsq-cai.icp0.io/)
+
+## Transacciones en el Internet Computer 
+
+En el ecosistema del **Internet Computer (ICP)**, una **transacción** representa cualquier operación que involucra el movimiento de tokens ICP o la ejecución de acciones dentro de un canister que consume recursos computacionales (cycles). Las transacciones son una parte fundamental tanto para el despliegue como para la operación continua de aplicaciones descentralizadas (dApps).
+
+---
+
+###  Tipos de transacciones
+
+Las transacciones pueden clasificarse en dos grandes grupos:
+
+- **Transacciones financieras**: 
+  - Envío de tokens ICP entre identidades o wallets.
+  - Conversión de ICP a cycles para alimentar canisters.
+  
+- **Transacciones computacionales**: 
+  - Despliegue o actualización de canisters.
+  - Llamadas a funciones expuestas por los canisters (por ejemplo, agregar datos, ejecutar lógica, etc.).
+  - Llamadas entre canisters.
+
+Cada una de estas acciones genera un evento dentro de la red del Internet Computer, el cual queda registrado y puede ser consultado públicamente.
+
+---
+
+###  ICP Explorer: Explorando transacciones en la red
+
+El **ICP Explorer** es una herramienta oficial que permite visualizar y auditar la actividad de la red del Internet Computer. Funciona como una especie de "explorador de bloques", similar a Etherscan en Ethereum.
+
+Con esta herramienta puedes:
+
+- Buscar una transacción específica por su hash.
+- Ver el historial de actividad de una identidad o dirección (`account-id`).
+- Consultar el estado y uso de un canister.
+- Ver cuánto ICP fue transferido, a quién y cuándo.
+- Ver conversiones de ICP a cycles.
+
+[🔗🚀 Ir a ICP Explorer](https://www.icpexplorer.org/#/)
