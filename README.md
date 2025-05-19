@@ -20,7 +20,7 @@ layout:
 
 # ¡Bienvenid@!
 
-¡Bienvenidos al programa ICP Developer! Prepárate para dos semanas intensivas de aprendizaje y desarrollo, donde dominarás la creación de Canisters con Motoko. Esta certificación no solo te brindará habilidades técnicas valiosas, sino que también te conectará con una comunidad apasionada de desarrolladores.
+¡Bienvenid@ al programa ICP Developer! Prepárate para dos semanas intensivas de aprendizaje y desarrollo, donde dominarás la creación de Canisters con Motoko. Esta certificación no solo te brindará habilidades técnicas valiosas, sino que también te conectará con una comunidad apasionada de desarrolladores.
 
 <figure><img src=".gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
