@@ -7,6 +7,8 @@ icon: computer
 
 # Martes: Comenzando a desarrollar con Motoko
 
+## Martes: Comenzando a desarrollar con Motoko
+
 <figure><img src="../.gitbook/assets/Picture5.png" alt=""><figcaption></figcaption></figure>
 
 ¡Listo para construir dApps en Internet Computer? Antes de comenzar, necesitamos configurar tu entorno de desarrollo. Te ofrecemos tres opciones flexibles para adaptarnos a tus preferencias y experiencia:
@@ -31,7 +33,7 @@ Documentación oficial sobre la instalación del ambiente de desarrollo (en ingl
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## Motoko Playground
+### Motoko Playground
 
 El Motoko Playground es un IDE en línea diseñado para facilitar el aprendizaje de Motoko, el lenguaje nativo de Internet Computer. Con esta herramienta, puedes desplegar canisters directamente en tu navegador, sin necesidad de descargar un SDK. Es una excelente opción para familiarizarte con la sintaxis y los conceptos básicos de Motoko.
 
@@ -43,7 +45,7 @@ dApp Motoko Playground
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## Docker
+### Docker
 
 <figure><img src="../.gitbook/assets/Docker-Logo-2.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -75,7 +77,7 @@ Instalación Docker Desktop para Linux
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## VsCode
+### VsCode
 
 <figure><img src="../.gitbook/assets/vscode.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -101,9 +103,9 @@ Tambien puedes instalar extensiones en GitPod.
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## Instalación Local
+### Instalación Local
 
-### WSL
+#### WSL
 
 Si estás utilizando Windows y deseas desarrollar dApps en Internet Computer, es esencial instalar el Subsistema de Windows para Linux (WSL). DFX, la herramienta de línea de comandos que te permite interactuar con la blockchain de ICP, está diseñada para funcionar en entornos Linux o macOS. WSL te proporciona un entorno Linux dentro de Windows, lo que te permite ejecutar DFX y otras herramientas necesarias sin necesidad de cambiar de sistema operativo. Instalar WSL te abre las puertas al desarrollo de dApps en ICP, permitiéndote aprovechar todas las funcionalidades de DFX en tu entorno Windows.
 
@@ -119,7 +121,7 @@ Extensión VS Code WSL
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-### DFX: El SDK del Internet Computer Protocol
+#### DFX: El SDK del Internet Computer Protocol
 
 DFX es tu herramienta esencial para crear y gestionar dApps en ICP. Este kit de desarrollo incluye: `dfx`, una interfaz de línea de comandos para administrar proyectos, identidades y ciclos; `dfxvm`, un gestor de versiones para DFX; `moc`, el compilador de Motoko; y `replica`, una instancia local de la red para pruebas y desarrollo. Instalar DFX te permite interactuar con la blockchain de ICP, compilar tus canisters y probar tus aplicaciones localmente, proporcionándote todo lo necesario para construir en Internet Computer.
 
@@ -135,22 +137,24 @@ Documentación oficial sobre la instalación de DFX
 Introducción a DFX
 {% endembed %}
 
-# Introducción a Motoko
+<figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
+
+## Introducción a Motoko
+
 <figure><img src="../.gitbook/assets/motoko.png" alt=""><figcaption></figcaption></figure>
 
-## ¿Que es Motoko?
+### ¿Que es Motoko?
+
 **Motoko** es un lenguaje de programación diseñado específicamente por DFINITY para el desarrollo de canisters en Internet Computer (ICP). Su arquitectura está optimizada para aprovechar las características únicas y los flujos de trabajo de ICP, ofreciendo un entorno de programación robusto y familiar. Con una sintaxis similar a lenguajes como JavaScript, Ruby, Python o Solidity, Motoko es fácil de aprender y usar para el desarrollo de aplicaciones.
 
-## Motoko Playground
+### Motoko Playground
 
 El Motoko Playground es un IDE en línea diseñado para facilitar el aprendizaje de Motoko, el lenguaje nativo de Internet Computer. Con esta herramienta, puedes desplegar canisters directamente en tu navegador, sin necesidad de descargar un SDK. Es una excelente opción para familiarizarte con la sintaxis y los conceptos básicos de Motoko.
 
 Sin embargo, es importante tener en cuenta que el Motoko Playground está destinado principalmente a la **práctica** y la **experimentación**. Para el desarrollo completo de **dApps** y la creación de proyectos que puedas subir a GitHub, te recomendamos encarecidamente que elijas una de las opciones de instalación local **(Docker, Gitpod o instalación local directa)** que hemos descrito anteriormente. Estas opciones te proporcionarán un entorno de desarrollo completo y te permitirán trabajar de manera eficiente en tus proyectos de Internet Computer.
 
-<!-- {% embed url="https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/" %}
-dApp Motoko Playground
-{% endembed %} -->
 [🔗📱 dApp Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)
+
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
 ```rust
@@ -178,22 +182,17 @@ await Main.hello();
 * **Gestión de memoria:** La memoria se gestiona mediante un proceso automático de recolección de basura.
 * **Soporte para interfaz de funciones externas:** Aún no soportado.
 
-<!-- {% embed url="https://internetcomputer.org/docs/tutorials/developer-liftoff/level-0/intro-languages/" %}
-Documentación oficial lenguajes ICP
-{% endembed %} -->
 [🔗📖 Documentación oficial de los lenguajes compatibles con ICP](https://internetcomputer.org/docs/tutorials/developer-liftoff/level-0/intro-languages/)
-<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction" %}
-Introducción de Motoko
-{% endembed %} -->
+
 [🔗🛠️ Introducción a Motoko](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction)
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## Motoko: Un Inicio Rápido en el Entorno Local
+### Motoko: Un Inicio Rápido en el Entorno Local
 
 Esta sección te guiará a través de los pasos esenciales para crear tu primer proyecto en Motoko, desde la configuración inicial hasta el despliegue de tu primer canister. Aprenderás a utilizar las herramientas clave, como DFX, y a escribir código Motoko básico para interactuar con la blockchain de Internet Computer. Este tutorial rápido te proporcionará una base sólida para comenzar a construir tus propias dApps y explorar el potencial de Motoko en el ecosistema de ICP.
 
-### Crear un nuevo proyecto
+#### Crear un nuevo proyecto
 
 Abre una ventana de la terminal en tu computadora. Crea un directorio nuevo en donde almacenaremos los archivos de nuestro proyecto y navega a este directorio:
 
@@ -238,7 +237,7 @@ Tambien puedes incluir algunas características extras en tu proyecto, por lo pr
 ⬚ Frontend tests
 ```
 
-### Código del smart contract
+#### Código del smart contract
 
 Este actor `hello_world` tiene una sola función llamada `saludar`. Está marcada como `query` porque no modifica el estado del actor. La función acepta un nombre como entrada de tipo `Text` y devuelve un saludo de tipo `Text`.
 
@@ -250,7 +249,7 @@ actor {
 };
 ```
 
-### Inicializando el ambiente de desarrollo
+#### Inicializando el ambiente de desarrollo
 
 Ahora vamos a utilizar `dfx`para inicializar el ambiente de desarrollo donde estaremos desplegando nuestro smart contract:
 
@@ -278,26 +277,19 @@ Backend canister via Candid interface:
 
 Para finalizar, interactúa con tu contrato recien desplegado haciendo click en el link que se generó en tu terminal.
 
-<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/getting-started/quickstart" %}
-Quickstart oficial en inglés
-{% endembed %} -->
 [🔗⚡ Quickstart oficial en inglés](https://internetcomputer.org/docs/motoko/main/getting-started/quickstart)
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## Explorando la Documentación de Motoko: Tu Guía de Referencia
+### Explorando la Documentación de Motoko: Tu Guía de Referencia
 
 A medida que avances en tu desarrollo con Motoko, la documentación oficial se convertirá en tu recurso indispensable. Encontrarás información detallada sobre la sintaxis del lenguaje, las funciones disponibles y los conceptos avanzados que necesitarás para construir tus canisters. Aunque la documentación está en inglés, no te preocupes, durante las sesiones de aprendizaje cubriremos los aspectos esenciales para completar tu proyecto final y obtener tu certificación. Te animamos a explorar la documentación para profundizar en tus conocimientos y convertirte en un desarrollador de Motoko experto.
 
-<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/base/" %}
-Documentación base Motoko
-{% endembed %} -->
 [🔗📖 Documentación base Motoko](https://internetcomputer.org/docs/motoko/main/base/)
-<!-- {% embed url="https://internetcomputer.org/docs/motoko/main/reference/language-manual" %}
-Referencia del lenguaje Motoko
-{% endembed %} -->
+
 [🔗📖 Referencia del lenguaje Motoko](https://internetcomputer.org/docs/motoko/main/reference/language-manual)
-### Apoyo con IA
+
+#### Apoyo con IA
 
 La página oficial del Internet Computer Protocol ofrece una pequeña IA para ayudarte con tus consultas. Puedes acceder a ella utilizando el <mark style="color:red;">siguiente botón</mark> en la parte superior derecha:
 
@@ -309,21 +301,17 @@ Lo cual traerá la siguiente ventana al frente:
 
 Esta IA acepta preguntas en español, así que no dudes en utilizarla.
 
-### AI Chatbot
+#### AI Chatbot
 
 También ponemos a tu disposición este pequeño chatbot que te podrá ayudar con **dudas básicas** sobre el desarrollo en Motoko.
 
-<!-- {% embed url="https://icp-ai-chat-frontend.vercel.app/" %}
-AI Chatbot ICP
-{% endembed %} -->
 [🔗🤖 AI Chatbot ICP](https://icp-ai-chat-frontend.vercel.app/)
-<!-- {% hint style="warning" %}
-Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos.
-{% endhint %} -->
+
 > ⚠️ Este chatbot se encuentra en desarrollo, por lo que la información o código que te proporcione pueden no ser siempre correctos.
+
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
-## Tipos de datos primitivos en Motoko
+### Tipos de datos primitivos en Motoko
 
 En Motoko, los tipos de datos primitivos son los bloques de construcción fundamentales para representar valores simples y comunes. Estos tipos incluyen booleanos (verdadero/falso), enteros con y sin signo de diferentes tamaños, caracteres y texto. La elección del tipo de dato primitivo adecuado es crucial, ya que determina qué operaciones (aritméticas, lógicas, relacionales) pueden aplicarse a los valores que representan. La categoría de un tipo, por lo tanto, define el conjunto de operadores disponibles, permitiendo a los desarrolladores realizar cálculos y manipulaciones de datos de manera precisa y eficiente.
 
@@ -332,7 +320,5 @@ En Motoko, los tipos de datos primitivos son los bloques de construcción fundam
 {% embed url="https://internetcomputer.org/docs/motoko/main/reference/language-manual#primitive-types" %}
 🔗📖 Documentación Oficial
 {% endembed %}
-<!-- [🔗📖 Documentación Oficial](https://internetcomputer.org/docs/motoko/main/reference/language-manual#primitive-types) -->
 
 <figure><img src="../.gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
-

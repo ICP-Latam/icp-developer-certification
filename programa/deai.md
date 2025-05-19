@@ -1,6 +1,6 @@
 ---
 description: Conoce la propuesta de valor en IA de ICP.
-icon: brain
+icon: user-unlock
 ---
 
 # Jueves: Autenticación y módulos
@@ -78,4 +78,3 @@ Y si deseas desplegarlo por ti mismo, puedes hacerlo desde acá:
 {% embed url="https://icp.ninja/projects/llm-chatbot" %}
 
 <figure><img src="../.gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
-
