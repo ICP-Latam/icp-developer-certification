@@ -70,6 +70,6 @@ Todas las sesiones de aprendizaje se realizarán a las 1:00 PM CST (hora de la C
 Puedes hacer la conversión de zona horaria [acá](https://www.worldtimebuddy.com/?pl=1\&lid=3530597,3435910,3646738,3117735\&h=3530597\&hf=1).
 {% endhint %}
 
-<table><thead><tr><th>Sesión</th><th>Fecha</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Aprendizaje</td><td>19 al 27 de Mayo</td><td><a href="https://us06web.zoom.us/j/89868747579">https://us06web.zoom.us/j/89868747579</a></td></tr><tr><td>Live Coding</td><td>28 y 29 de Mayo</td><td><a href="https://us06web.zoom.us/j/89868747579">https://us06web.zoom.us/j/89868747579</a></td></tr><tr><td>Entrega de Proyecto</td><td>30 de Marzo</td><td><a href="https://forms.gle/Tc8tC1rr9Wkv8Sgc6">https://forms.gle/Tc8tC1rr9Wkv8Sgc6</a></td></tr></tbody></table>
+<table><thead><tr><th>Sesión</th><th>Fecha</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Aprendizaje</td><td>19 al 27 de Mayo</td><td><a href="https://us06web.zoom.us/j/89868747579">https://us06web.zoom.us/j/89868747579</a></td></tr><tr><td>Live Coding</td><td>28 y 29 de Mayo</td><td><a href="https://us06web.zoom.us/j/89868747579">https://us06web.zoom.us/j/89868747579</a></td></tr><tr><td>Entrega de Proyecto</td><td>30 de Mayo</td><td><a href="https://forms.gle/Tc8tC1rr9Wkv8Sgc6">https://forms.gle/Tc8tC1rr9Wkv8Sgc6</a></td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
