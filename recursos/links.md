@@ -19,11 +19,7 @@ Todos los videos se subirán a [esta](https://www.youtube.com/playlist?list=PLix
 
 <summary>Por sesión</summary>
 
-[Sesión 1 | Lunes 10 de Marzo](https://youtu.be/BtuaM9AJ844)
 
-[Sesión 2 | Martes 11 de Marzo](https://youtu.be/0t_N4OqN5qM)
-
-[Sesión 3 | Miércoles 12 de Marzo](https://youtu.be/d0gtUcBkRMY)
 
 </details>
 

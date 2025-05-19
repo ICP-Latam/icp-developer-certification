@@ -28,19 +28,19 @@ layout:
 
 {% stepper %}
 {% step %}
-### Asiste
+#### Asiste
 
 Participa activamente en las sesiones de aprendizaje en vivo a través de Zoom durante la primera semana. Estas sesiones son fundamentales para comprender los conceptos clave y resolver tus dudas.
 {% endstep %}
 
 {% step %}
-### Desarrolla
+#### Desarrolla
 
-Crea un Canister innovador utilizando el CDK de Motoko. Asegúrate de que tu proyecto esté alojado en un repositorio público de GitHub y cuente con una documentación clara.
+Crea un Canister backend y frontend utilizando el CDK de Motoko y tu librería de frontend de preferencia. Asegúrate de que tu proyecto esté alojado en un repositorio público de GitHub y cuente con una documentación clara.
 {% endstep %}
 
 {% step %}
-### Presenta
+#### Presenta
 
 Comparte tu creación con la comunidad y tu instructor a través de un repositorio público documentado y una presentación de tu idea.
 {% endstep %}
@@ -60,16 +60,7 @@ Durante esta certificación, te sumergirás en el ecosistema blockchain de Inter
 
 ¡Únete a nuestra comunidad! Toda la comunicación asíncrona, anuncios y debates se llevarán a cabo en nuestros servidores de Discord. Es fundamental que te unas para no perderte ninguna actualización importante.
 
-<table data-view="cards">
-  <thead>
-    <tr>
-      <th></th>
-      <th data-type="content-ref"></th>
-      <th data-hidden data-card-cover data-type="files"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Discord Zona Tres</strong></td><td><a href="https://discord.gg/aUUCHa96Ja">https://discord.gg/aUUCHa96Ja</a></td><td><a href=".gitbook/assets/Dis-Z3.jpg">Dis-Z3.jpg</a></td></tr><tr><td><strong>WhatsApp Zona Tres</strong></td><td><a href="https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0">https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0</a></td><td><a href=".gitbook/assets/WA.jpg">WA.jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Discord Zona Tres</strong></td><td><a href="https://discord.gg/aUUCHa96Ja">https://discord.gg/aUUCHa96Ja</a></td><td><a href=".gitbook/assets/Dis-Z3.jpg">Dis-Z3.jpg</a></td></tr><tr><td><strong>WhatsApp Zona Tres</strong></td><td><a href="https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0">https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0</a></td><td><a href=".gitbook/assets/WA.jpg">WA.jpg</a></td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -79,6 +70,6 @@ Todas las sesiones de aprendizaje se realizarán a las 1:00 PM CST (hora de la C
 Puedes hacer la conversión de zona horaria [acá](https://www.worldtimebuddy.com/?pl=1\&lid=3530597,3435910,3646738,3117735\&h=3530597\&hf=1).
 {% endhint %}
 
-<table><thead><tr><th>Sesión</th><th>Fecha</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Aprendizaje</td><td>10 al 14 de Marzo</td><td><a href="https://us06web.zoom.us/j/84479029016?pwd=Q1o0SFhaWmxpQ0czMGxnSkJrS2NCUT09">https://us06web.zoom.us/j/84479029016?pwd=Q1o0SFhaWmxpQ0czMGxnSkJrS2NCUT09</a></td></tr><tr><td>Office Hours</td><td>17 y 19 de Marzo</td><td><a href="https://discord.com/channels/855182002981830656/1105937337634005135">https://discord.com/channels/855182002981830656/1105937337634005135</a></td></tr><tr><td>Entrega de Proyecto</td><td>23 de Marzo</td><td><a href="https://forms.gle/Tc8tC1rr9Wkv8Sgc6">https://forms.gle/Tc8tC1rr9Wkv8Sgc6</a></td></tr></tbody></table>
+<table><thead><tr><th>Sesión</th><th>Fecha</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Aprendizaje</td><td>19 al 27 de Mayo</td><td><a href="https://us06web.zoom.us/j/89868747579">https://us06web.zoom.us/j/89868747579</a></td></tr><tr><td>Live Coding</td><td>28 y 29 de Mayo</td><td><a href="https://us06web.zoom.us/j/89868747579">https://us06web.zoom.us/j/89868747579</a></td></tr><tr><td>Entrega de Proyecto</td><td>30 de Marzo</td><td><a href="https://forms.gle/Tc8tC1rr9Wkv8Sgc6">https://forms.gle/Tc8tC1rr9Wkv8Sgc6</a></td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/Separador2.jpg" alt=""><figcaption></figcaption></figure>
