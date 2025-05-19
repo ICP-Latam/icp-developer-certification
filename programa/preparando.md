@@ -5,7 +5,7 @@ description: >-
 icon: computer
 ---
 
-# Martes: Entornos de desarrollo y variables
+# Martes: Comenzando a desarrollar con Motoko
 
 <figure><img src="../.gitbook/assets/Picture5.png" alt=""><figcaption></figcaption></figure>
 

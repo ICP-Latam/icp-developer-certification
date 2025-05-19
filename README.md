@@ -42,13 +42,9 @@ Crea un Canister innovador utilizando el CDK de Motoko. Asegúrate de que tu pro
 {% step %}
 ### Presenta
 
-Comparte tu creación con la comunidad y tu instructor a través de un repositorio público documentado y un video de 5 minutos.
+Comparte tu creación con la comunidad y tu instructor a través de un repositorio público documentado y una presentación de tu idea.
 {% endstep %}
 {% endstepper %}
-
-{% hint style="info" %}
-Puedes usar herramientas gratuitas como [Loom](https://www.loom.com/) para grabar y hostear tu video.
-{% endhint %}
 
 <figure><img src=".gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +60,16 @@ Durante esta certificación, te sumergirás en el ecosistema blockchain de Inter
 
 ¡Únete a nuestra comunidad! Toda la comunicación asíncrona, anuncios y debates se llevarán a cabo en nuestros servidores de Discord. Es fundamental que te unas para no perderte ninguna actualización importante.
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Discord ICP Hub México</strong></td><td><a href="https://discord.gg/6TQ49NX5F2">https://discord.gg/6TQ49NX5F2</a></td><td><a href=".gitbook/assets/Dis-ICP.jpg">Dis-ICP.jpg</a></td></tr><tr><td><strong>Discord Zona Tres</strong></td><td><a href="https://discord.gg/aUUCHa96Ja">https://discord.gg/aUUCHa96Ja</a></td><td><a href=".gitbook/assets/Dis-Z3.jpg">Dis-Z3.jpg</a></td></tr><tr><td><strong>WhatsApp ICP Hub México</strong></td><td><a href="https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0">https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0</a></td><td><a href=".gitbook/assets/WA.jpg">WA.jpg</a></td></tr></tbody></table>
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th data-type="content-ref"></th>
+      <th data-hidden data-card-cover data-type="files"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Discord Zona Tres</strong></td><td><a href="https://discord.gg/aUUCHa96Ja">https://discord.gg/aUUCHa96Ja</a></td><td><a href=".gitbook/assets/Dis-Z3.jpg">Dis-Z3.jpg</a></td></tr><tr><td><strong>WhatsApp Zona Tres</strong></td><td><a href="https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0">https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0</a></td><td><a href=".gitbook/assets/WA.jpg">WA.jpg</a></td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 

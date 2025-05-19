@@ -2,5 +2,5 @@
 icon: comment-question
 ---
 
-# Lunes y Miércoles: Office Hours
+# Miércoles y Jueves: Live Coding
 
