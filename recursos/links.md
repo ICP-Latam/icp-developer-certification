@@ -6,14 +6,19 @@ icon: message-exclamation
 ---
 
 # Links Importantes
+Un lugar para acceder a todos los recursos que iremos compartiendo durante la
+  certificación.
 
 <figure><img src="../.gitbook/assets/asdasd.png" alt=""><figcaption></figcaption></figure>
 
 ## Videos
 
-{% hint style="info" %}
+<!-- {% hint style="info" %}
 Todos los videos se subirán a [esta](https://www.youtube.com/playlist?list=PLixWO0N_iFTP4FdKEfsxJkSxE_6Rgxuem) lista de reproducción.
-{% endhint %}
+{% endhint %} -->
+
+> ℹ️ 🔗 Todos los videos se subirán a <a href="https://www.youtube.com/playlist?list=PLixWO0N_iFTP4FdKEfsxJkSxE_6Rgxuem" target="_blank">esta </a> lista de reproducción.
+<br>
 
 <details>
 

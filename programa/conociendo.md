@@ -1,22 +1,24 @@
----
+<!-- ---
 description: Identifica las características que hacen único al Internet Computer Protocol.
 icon: book-open
----
+--- -->
 
-# Lunes: Conociendo Internet Computer y Motoko
+# 📖 Lunes: Conociendo Internet Computer y Motoko 📖
+Identifica las características que hacen único al Internet Computer Protocol.
 
 <figure><img src="../.gitbook/assets/Picture1.png" alt=""><figcaption></figcaption></figure>
 
 Prepárate para una inmersión completa en el ecosistema, donde explorarás los fundamentos de Web3 y descubrirás cómo ICP está revolucionando la forma en que construimos aplicaciones.
 
-{% hint style="info" %}
-Al finalizar la sesión, lograrás:
+> ℹ️ Al finalizar la sesión, lograrás:
+>   
+> *  Comprender los conceptos esenciales de Web3 y su impacto en el desarrollo.
+>  
+> * Diferenciar claramente entre el desarrollo de aplicaciones Web2 y Web3.  
+> * Familiarizarte con los principios básicos de la tecnología blockchain y su aplicación en ICP.  
+> * Interactuar directamente con la blockchain de Internet Computer.  
 
-* Comprender los conceptos esenciales de Web3 y su impacto en el desarrollo.
-* Diferenciar claramente entre el desarrollo de aplicaciones Web2 y Web3.
-* Familiarizarte con los principios básicos de la tecnología blockchain y su aplicación en ICP.
-* Interactuar directamente con la blockchain de Internet Computer, dando tus primeros pasos como usuario Web3.
-{% endhint %}
+
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +37,7 @@ ICP cambia las reglas del juego en el desarrollo de aplicaciones descentralizada
 * Los canisters (Smart contracts) son indexables por buscadores como Google.
 * Tanto el frontend como el backend pueden descentralizarse.
 
-<figure><img src="../.gitbook/assets/Picture3.png" alt=""><figcaption><p>ICP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Picture3.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -45,13 +47,18 @@ ICP cambia las reglas del juego en el desarrollo de aplicaciones descentralizada
 
 En la era Web3, tu identidad digital es tu activo más valioso. Internet Identity (II) es un sistema de identidad descentralizado que te permite acceder a aplicaciones en Internet Computer de forma segura y privada, sin depender de intermediarios centralizados. A diferencia de los sistemas tradicionales de usuario y contraseña, donde tus datos son controlados por grandes corporaciones, II te otorga el control total de tu identidad.
 
-{% embed url="https://internetcomputer.org/internet-identity" %}
+<!-- {% embed url="https://internetcomputer.org/internet-identity" %}
 Documentación oficial
-{% endembed %}
+{% endembed %} -->
+🔗 📖  <a href="https://internetcomputer.org/internet-identity" target="_blank">Documentación oficial de Internet Identity</a>.
+<br>
 
-{% embed url="https://identity.ic0.app/" %}
+<!-- {% embed url="https://identity.ic0.app/" %}
 App Internet Identity
-{% endembed %}
+{% endembed %} -->
+
+🔗🔑 <a href="https://identity.ic0.app/" target="_blank">Página oficial de Internet Identity</a>.
+<br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -66,13 +73,17 @@ El Network Nervous System (NNS) es el sistema de gobernanza descentralizado que 
 
 En resumen, el NNS es el mecanismo que permite a la comunidad de ICP tomar decisiones colectivas y dar forma al futuro de la red.
 
-{% embed url="https://internetcomputer.org/nns" %}
+<!-- {% embed url="https://internetcomputer.org/nns" %}
 Documentación oficial
-{% endembed %}
+{% endembed %} -->
+🔗 🧠  <a href="https://internetcomputer.org/nns" target="_blank">Documentación oficial del NNs</a>.
+<br>
 
-{% embed url="https://nns.ic0.app/" %}
+<!-- {% embed url="https://nns.ic0.app/" %}
 App NNS
-{% endembed %}
+{% endembed %} -->
+🔗 🖥️ <a href="https://nns.ic0.app/" target="_blank">App NNs</a>.
+<br>
 
 <figure><img src="../.gitbook/assets/Separador.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -80,13 +91,15 @@ App NNS
 
 Internet Computer está construyendo un ecosistema vibrante y en constante expansión de aplicaciones descentralizadas (dApps). Sumérgete en este mundo innovador y descubre cómo ICP está transformando la experiencia web. ¡Conviértete en un usuario activo de la Web3 explorando las posibilidades que ofrece Internet Computer!
 
-{% embed url="https://internetcomputer.org/ecosystem" %}
+<!-- {% embed url="https://internetcomputer.org/ecosystem" %}
 Ecosistema ICP
-{% endembed %}
-
-{% embed url="https://github.com/dfinity/awesome-internet-computer" %}
+{% endembed %} -->
+🔗 📱  <a href="https://internetcomputer.org/ecosystem" target="_blank">Ecosistema ICP</a>.
+<br>
+<!-- {% embed url="https://github.com/dfinity/awesome-internet-computer" %}
 DFINITY: Awesome ICP
-{% endembed %}
+{% endembed %} -->
+🔗 📚  <a href="https://github.com/dfinity/awesome-internet-computer" target="_blank">Repositorio de DFINITY: Awesome ICP</a>.
 
 ### **Más allá de la exploración:**
 
