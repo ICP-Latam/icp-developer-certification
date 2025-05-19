@@ -3,7 +3,7 @@ description: Aprende a cómo guardar información en los canisters de ICP.
 icon: box
 ---
 
-# Jueves: Estructuras de datos y persistencia
+# Miércoles: Estructuras de datos y persistencia
 
 <figure><img src="../.gitbook/assets/Picture4.png" alt=""><figcaption></figcaption></figure>
 

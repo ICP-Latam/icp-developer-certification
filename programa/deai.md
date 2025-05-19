@@ -3,7 +3,7 @@ description: Conoce la propuesta de valor en IA de ICP.
 icon: brain
 ---
 
-# Viernes: Autenticación y módulos
+# Jueves: Autenticación y módulos
 
 <figure><img src="../.gitbook/assets/asdwq.png" alt=""><figcaption></figcaption></figure>
 
