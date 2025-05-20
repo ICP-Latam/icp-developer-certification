@@ -19,13 +19,36 @@ Todos los videos se subirán a [esta](https://www.youtube.com/playlist?list=PLix
 
 <summary>Por sesión</summary>
 
-
+[Sesión 1](https://www.youtube.com/watch?v=cfDuh2vQK64)
 
 </details>
 
 ## Links
 
 Acá están los links que vimos en cada una de las sesiones
+
+<details>
+
+<summary>Sesión 1</summary>
+
+**Comunicación**
+
+* Link al servidor de Discord de Zona Tres: [https://discord.gg/aUUCHa96Ja](https://discord.gg/aUUCHa96Ja),
+* Link al grupo de WhatsApp de Zona Tres: [https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0](https://chat.whatsapp.com/FdqtZvYyujJ70qKlod6qA0),
+
+**Sesión**
+
+* Video de la sesión: [https://youtu.be/cfDuh2vQK64](https://youtu.be/cfDuh2vQK64),
+* Documentación del bootcamp: [https://zona-tres.gitbook.io/icp-developer-certification](https://zona-tres.gitbook.io/icp-developer-certification),
+* Registro al bootcamp: [https://lu.ma/mli1q1ft](https://lu.ma/mli1q1ft),
+* Registro de equipos: [https://airtable.com/app0jQaUjBJqdVVgH/shrVNszmziyASUJv2](https://airtable.com/app0jQaUjBJqdVVgH/shrVNszmziyASUJv2),
+
+**Documentación**
+
+* Explorar el ecosistema de ICP: [https://internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem),
+* Explorar documentación canisters: [https://internetcomputer.org/docs/building-apps/essentials/canisters](https://internetcomputer.org/docs/building-apps/essentials/canisters)
+
+</details>
 
 <details>
 
