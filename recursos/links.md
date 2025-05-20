@@ -12,7 +12,7 @@ icon: message-exclamation
 ## Videos
 
 {% hint style="info" %}
-Todos los videos se subirán a [esta](https://www.youtube.com/playlist?list=PLixWO0N_iFTP4FdKEfsxJkSxE_6Rgxuem) lista de reproducción.
+Todos los videos se subirán a [esta](https://www.youtube.com/playlist?list=PLyp7oX1WCWQVuWJWpXAeYe8RHLasPcyqP) lista de reproducción.
 {% endhint %}
 
 <details>
