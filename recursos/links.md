@@ -21,6 +21,10 @@ Todos los videos se subirán a [esta](https://www.youtube.com/playlist?list=PLyp
 
 [Sesión 1](https://www.youtube.com/watch?v=cfDuh2vQK64)
 
+[Sesión 2](https://www.youtube.com/watch?v=ZSKhNTdWwmQ)
+
+[Sesión 3](https://www.youtube.com/watch?v=O5S3IXZdqN8)
+
 </details>
 
 ## Links
